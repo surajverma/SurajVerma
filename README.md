@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-| ![Suraj's GitHub stats](https://github-readme-stats-one-navy-70.vercel.app/api?username=SurajVerma&count_private=true)  | ![Top Langs](https://github-readme-stats-one-navy-70.vercel.app/api/top-langs/?username=SurajVerma&layout=compact) |
+| ![Suraj's GitHub stats](https://github-readme-stats-one-navy-70.vercel.app/api?username=surajverma&count_private=true&include_all_commits=true)  | ![Top Langs](https://github-readme-stats-one-navy-70.vercel.app/api/top-langs/?username=surajverma&layout=compact) |
 | ------------- | ------------- |
